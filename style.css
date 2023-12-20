@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+    color: white;
+}
+
+
+a {
+color: white;
+}
+
+a:visited {
+color: green;
+}
+
+a:hover {
+color: black;
+}
+
+a:active {
+color: limegreen;
+}
